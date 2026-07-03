@@ -1,0 +1,1 @@
+in this assignemnt we created a file name as "demo.txt" under the home directory. We change the file permission to "**764**" which will allow the user can read it, group can read/write & owner can read/write/execute it.
